@@ -19,7 +19,7 @@ Um script interativo em Python desenvolvido para testar e reforçar conceitos b�
 2. Clone este repositório:
 
 ```bash
-git clone https://github.com/cahponto/quiz-seguranca-python.git
+git clone https://github.com/cah-menezes/quiz-seguranca-python.git
 ```
 
 3. Acesse a pasta do projeto:
