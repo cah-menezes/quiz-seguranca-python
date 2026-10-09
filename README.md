@@ -1,35 +1,20 @@
-# 🛡️ Quiz de Conscientização em Segurança da Informação
+# 🔐 Quiz de Conscientização em Segurança
 
-Um script interativo em Python desenvolvido para testar e reforçar conceitos básicos de Segurança da Informação e prevenção contra Engenharia Social.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## 🚀 Funcionalidades
+Script interativo de quiz em Python que testa conhecimentos básicos de segurança da informação: phishing, engenharia social e boas práticas de senha.
 
-* **Cenários Reais:** Perguntas sobre Phishing, Engenharia Social (USB Drop) e boas práticas de senhas.
-* **Normalização de Dados:** Remove espaços extras e padroniza maiúsculas/minúsculas nas respostas do usuário usando `.strip()` e `.lower()`.
-* **Pontuação Dinâmica:** Contabiliza os acertos e exibe uma avaliação personalizada ao final usando `f-strings`.
+---
 
-## 🛠️ Tecnologias Utilizadas
+## ⚙️ Funcionalidades
 
-* Python 3
-* Git & GitHub
+- Apresenta cenários reais de ameaça e coleta resposta do usuário
+- Calcula pontuação e exibe avaliação final personalizada
 
-## 🏁 Como Executar o Projeto
-
-1. Certifique-se de ter o Python 3 instalado.
-2. Clone este repositório:
+## 🚀 Como executar
 
 ```bash
 git clone https://github.com/cah-menezes/quiz-seguranca-python.git
-```
-
-3. Acesse a pasta do projeto:
-
-```bash
 cd quiz-seguranca-python
-```
-
-4. Execute o quiz:
-
-```bash
-python quiz.py
+python3 quiz.py
 ```
